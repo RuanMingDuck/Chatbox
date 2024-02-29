@@ -1,0 +1,24 @@
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\bin\Debug\DoAn_Server.exe.config
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\bin\Debug\DoAn_Server.exe
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\bin\Debug\DoAn_Server.pdb
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\obj\Debug\DoAn_Server.csproj.AssemblyReference.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\obj\Debug\DoAn_Server.csproj.SuggestedBindingRedirects.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\obj\Debug\DoAn_Server.csproj.CoreCompileInputs.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\obj\Debug\DoAn_Server.exe
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server\DoAn_Server\obj\Debug\DoAn_Server.pdb
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\bin\Debug\DoAn_Server.exe.config
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\bin\Debug\DoAn_Server.exe
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\bin\Debug\DoAn_Server.pdb
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.csproj.AssemblyReference.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.csproj.SuggestedBindingRedirects.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.csproj.CoreCompileInputs.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.exe
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.pdb
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\bin\Debug\DoAn_Server.exe.config
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\bin\Debug\DoAn_Server.exe
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\bin\Debug\DoAn_Server.pdb
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.csproj.AssemblyReference.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.csproj.SuggestedBindingRedirects.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.csproj.CoreCompileInputs.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.exe
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Server(NO GUI)\DoAn_Server\obj\Debug\DoAn_Server.pdb

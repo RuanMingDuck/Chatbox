@@ -1,0 +1,55 @@
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\bin\Debug\DoAn.exe.config
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\bin\Debug\DoAn.exe
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\bin\Debug\DoAn.pdb
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.Form1.resources
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.exe
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.pdb
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.Form2.resources
+D:\study\nam_2\hoc_ky_3\lap_trinh_mang\DoAn\obj\Debug\DoAn.Form_Main.resources
+B:\Homeworks\Project\LTM\DoAn\bin\Debug\DoAn.exe.config
+B:\Homeworks\Project\LTM\DoAn\bin\Debug\DoAn.exe
+B:\Homeworks\Project\LTM\DoAn\bin\Debug\DoAn.pdb
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.Form_Main.resources
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.exe
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.pdb
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.Email_OTP.resources
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.Login.resources
+B:\Homeworks\Project\LTM\DoAn\obj\Debug\DoAn.Register.resources
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\bin\Debug\DoAn.exe.config
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\bin\Debug\DoAn.exe
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\bin\Debug\DoAn.pdb
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.AssemblyReference.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Email_OTP.resources
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Login.resources
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Register.resources
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Form_Main.resources
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Properties.Resources.resources
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.GenerateResource.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.exe
+B:\Homeworks\Project\LTM\Chatbox\DoAn_Client\obj\Debug\DoAn.pdb
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\bin\Debug\DoAn.exe.config
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\bin\Debug\DoAn.exe
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\bin\Debug\DoAn.pdb
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Email_OTP.resources
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Login.resources
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Register.resources
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Form_Main.resources
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.Properties.Resources.resources
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.exe
+D:\Study Resources\University\Project\ProjectLTM\Chatbox\DoAn_Client\obj\Debug\DoAn.pdb
